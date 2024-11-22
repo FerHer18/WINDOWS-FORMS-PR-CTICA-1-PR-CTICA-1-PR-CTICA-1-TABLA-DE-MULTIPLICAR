@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRÁCTICA #1 TABLA DE MULTIPLICAR/1.0.0": {
+        "runtime": {
+          "PRÁCTICA #1 TABLA DE MULTIPLICAR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRÁCTICA #1 TABLA DE MULTIPLICAR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
